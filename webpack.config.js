@@ -1,7 +1,7 @@
 const path = require('path');
 const { merge } = require('webpack-merge');
+const { VueLoaderPlugin } = require('vue-loader');
 const TerserPlugin = require('terser-webpack-plugin');
-const { VueLoaderPlugin } = require('vue-loader/dist/index');
 
 const config = {
   mode: 'production',
