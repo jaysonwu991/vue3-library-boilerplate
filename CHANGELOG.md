@@ -1,6 +1,11 @@
+## 1.0.2
+
+- Upgrade packages to the latest
+- Add linting commands
+
 ## 1.0.1
 
-- Update packages
+- Upgrade packages to the latest
 
 ## 1.0.0
 
